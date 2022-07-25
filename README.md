@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harish Natarajan Ravi
-- 👀 I’m interested in Computer Vision and Robotics topics
-- 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Computer Vision, Machine Learning and Data Science topics
+- 🌱 I’m currently learning C/C++,Python,Dockers and Kubernetes
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects
 - 📫 You can reach me on - harrish.nr@gmail.com
 
 <!---
