@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harish Natarajan Ravi
 - 👀 I’m interested in Computer Vision, Machine Learning and Data Science topics
-- 💞️ I’m looking to collaborate on Computer Vision, Data Science and Machine Learning Projects
+- 💞️ I’m looking to collaborate on Computer Vision, Machine Learning and Autonomous System Projects
 - 💼 Portfolio - https://harishnr93.github.io/ 
 - 📫 You can reach me on - harrish.nr@gmail.com
 
