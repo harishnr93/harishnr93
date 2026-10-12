@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harish, an Engineering graduate working on autonomous systems, computer vision, sensor fusion, and embedded software
+- 👋 Hi, I’m Harish, a Computer Engineering graduate working on autonomous systems, computer vision, multi-sensor fusion, and embedded software
 - 👀 I’m interested in Computer Vision, Machine Learning, Robotics, Data Science and AI topics
 - 🚀 I’m looking to collaborate on Computer Vision, Robotics, Machine Learning, AI and Autonomous Systems projects
 
